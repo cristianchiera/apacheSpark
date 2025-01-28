@@ -35,7 +35,7 @@ df_transformado= df \
 
 
 # Configuración para SQL Server
-jdbc_url = "jdbc:sqlserver://localhost:1433;databaseName=pregase"
+jdbc_url = "jdbc:sqlserver://localhost:1433;databaseName=nombre_de_la_db"
 properties = {
     "user": "usuario",
     "password": "clave",
