@@ -19,12 +19,12 @@ sudo mv spark-3.5.4-bin-hadoop3 /opt/spark
 
 ~~~
 
-#####Configurar las variables de entorno. Añade esto con vim o nano a tu ~/.bashrc o ~/.zshrc:
+##### Configurar las variables de entorno. Añade esto con vim o nano a tu ~/.bashrc o ~/.zshrc:
 ~~~
 export SPARK_HOME=/opt/spark
 export PATH=$PATH:$SPARK_HOME/bin:$SPARK_HOME/sbin
 ~~~
-######Recarga tu shell:
+###### Recarga tu shell:
 ~~~
 source ~/.zshrc  # si usas zsh
 # o
