@@ -1,2 +1,2 @@
 # Apache Spark
-aprendamos juntos a usar apache spark con ejemplos
+Aprendiendo a usar Apache Spark con ejemplos
